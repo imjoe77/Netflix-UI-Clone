@@ -40,6 +40,12 @@ https://imjoe77.github.io/Netflix-UI-Clone/
 
 ---
 
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
 ## Disclaimer
 
 This project is created purely for educational purposes and is not affiliated with Netflix.
