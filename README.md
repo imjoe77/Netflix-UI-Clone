@@ -1,16 +1,46 @@
-# Netflix-UI-Clone
+# 🎬 Netflix UI Clone
 
-This project is a static clone of Netflix’s landing page built using HTML and CSS.
+A responsive clone of Netflix's landing page built using HTML and CSS.
 
-It was created as a frontend practice project to understand:
-- Basic HTML structuring
-- CSS styling
-- Layout alignment using Flexbox
-- UI replication skills
+This project was created while learning modern CSS techniques, responsive layouts, and pixel-perfect UI implementation.
 
-## 🛠 Tech Stack
+---
+
+## Live Demo
+
+...
+
+---
+
+## Features
+
+- Responsive Layout
+- Hero Banner
+- Navigation Bar
+- FAQ Section
+- Footer
+- Modern CSS
+
+---
+
+## Tech Stack
+
 - HTML5
 - CSS3
 
-## 📌 Note
-This version is not fully responsive and was built as an early learning project.
+---
+
+## What I Learned
+
+- Flexbox
+- CSS Grid
+- Responsive Design
+- Positioning
+- UI Replication
+- Layout Structuring
+
+---
+
+## Disclaimer
+
+This project is created purely for educational purposes and is not affiliated with Netflix.
