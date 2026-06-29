@@ -7,7 +7,7 @@ This project was created while learning modern CSS techniques, responsive layout
 ---
 
 ## Live Demo
-(https://imjoe77.github.io/Netflix-UI-Clone/)
+https://imjoe77.github.io/Netflix-UI-Clone/
 
 ---
 
